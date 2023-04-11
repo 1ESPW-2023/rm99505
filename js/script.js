@@ -1,1 +1,1 @@
-//Exemplo de Funções
+//Exemplo de Funções em JS.
