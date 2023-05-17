@@ -19,17 +19,9 @@ inputUser.addEventListener("keyup", ()=>{
     }
 });
 
-//const eyePass = document.querySelector("fa-eye");
-//
-//eyePass.addEventListener("click", ()=>{
-//    const inputPass = document.querySelector("#idPass")
-//
-//    if(inputPass.getAttribute("type") == "password"){
- //       inputPass.setAttribute("type","text");
- //   }else{
- //       inputPass.setAttribute("type","password");
-//    }
-//});
+//SUBINDO A RÉGUA
+//Agora repita o processo e altere a classe do ícone para outra
+//Fazendo com que o olho se feche ou apareça com uma cancela quando clicado e vice-versa.
 
 const eyePass = document.querySelector(".eye");
 
